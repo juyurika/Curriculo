@@ -1,0 +1,67 @@
+body {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 20px;
+}
+
+header {
+    background-image: url(fundo-de-borda-floral.webp);
+    background-position: bottom;
+    background-size: cover;
+    height: 280px;
+}
+
+h1{
+    text-align: center;
+    padding-top: 40px;
+    color: #47522e;
+    font-size: 60px;
+    text-shadow: 3px 3px 3px #98b35b;
+}
+
+.links li{
+    display: inline-block;
+    padding-inline: 15px;
+}
+
+.links {
+    text-align: center;
+}
+
+.links a {
+    text-decoration: none;
+    color: #47522e;
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 8px;
+}
+
+.links a:hover {
+    background-color: #98b35b;
+    color: #fff;
+}
+
+h2 {
+    margin-left: 30px;
+    color: #98b35b;
+    text-shadow: 1px 1px 1px #000;
+    padding-top: 20px;
+}
+
+p {
+    margin-left: 35px;
+    margin-right: 35px;
+}
+
+div {
+    background-color: #eef7e8;
+}
+
+hr {
+    text-align: center;
+    width: 70%;
+    background-color: #cddab1;
+    height: 2px;
+    border-radius: 100%;
+    margin-top: 40px;
+}
